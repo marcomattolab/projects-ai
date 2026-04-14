@@ -1,0 +1,5 @@
+Use this template as a starting point for MCP server definitions.
+
+- Add tools, prompts, and resources here.
+- Keep the server simple and easy to test.
+- Update the README with any command or usage notes.

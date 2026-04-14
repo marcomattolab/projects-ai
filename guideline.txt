@@ -1,0 +1,6 @@
+Guidelines for working with this MCP demo project:
+
+1. Keep `main.py` focused on MCP server setup and examples.
+2. Use `mcp dev main.py` for local development and inspection.
+3. Use `mcp run main.py --transport=streamable-http` for direct server execution.
+4. Document changes in README.md so future users know how to run the project.
